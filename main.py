@@ -1,4 +1,4 @@
-from finance_manager import FinanceManager
+from gui import FinanceGUI
 
-app = FinanceManager()
+app = FinanceGUI()
 app.run()
