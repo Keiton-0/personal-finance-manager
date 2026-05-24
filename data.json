@@ -1,0 +1,9 @@
+{
+    "balance": 100.0,
+    "transactions": [
+        {
+            "type": "income",
+            "amount": 100.0
+        }
+    ]
+}
