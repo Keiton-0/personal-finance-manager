@@ -1,4 +1,5 @@
 from gui import FinanceGUI
 
-app = FinanceGUI()
-app.run()
+if __name__ == "__main__":
+    app = FinanceGUI()
+    app.run()

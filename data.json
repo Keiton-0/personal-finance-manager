@@ -1,3 +1,55 @@
 {
-    "balance": -200.0
+    "balance": 1255.0,
+    "transactions": [
+        {
+            "id": 1779638403827,
+            "type": "expense",
+            "amount": 120,
+            "category": "utilities",
+            "category_name": "Faturat",
+            "category_icon": "💡",
+            "description": "Fatura drita",
+            "date": "2026-05-12"
+        },
+        {
+            "id": 1779638403827,
+            "type": "income",
+            "amount": 200,
+            "category": "freelance",
+            "category_name": "Freelance",
+            "category_icon": "💻",
+            "description": "Projekt web",
+            "date": "2026-05-10"
+        },
+        {
+            "id": 1779638403827,
+            "type": "expense",
+            "amount": 45,
+            "category": "transport",
+            "category_name": "Transport",
+            "category_icon": "🚌",
+            "description": "Biletë autobusi",
+            "date": "2026-05-05"
+        },
+        {
+            "id": 1779638403827,
+            "type": "expense",
+            "amount": 80,
+            "category": "food",
+            "category_name": "Ushqim",
+            "category_icon": "🍔",
+            "description": "Blerje ushqimi",
+            "date": "2026-05-03"
+        },
+        {
+            "id": 1779638403826,
+            "type": "income",
+            "amount": 1500,
+            "category": "salary",
+            "category_name": "Rrogë",
+            "category_icon": "💼",
+            "description": "Rrogë mujore",
+            "date": "2026-05-01"
+        }
+    ]
 }
